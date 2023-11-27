@@ -1,1 +1,1 @@
-# goit-advancedjs-hw-05
+# goit-typescript-hw-01
